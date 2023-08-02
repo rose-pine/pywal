@@ -1,0 +1,25 @@
+{
+  "special": {
+    "background": "$base",
+    "foreground": "$text",
+    "cursor": "$text"
+  },
+  "colors": {
+    "color0": "$overlay",
+    "color1": "$love",
+    "color2": "$pine",
+    "color3": "$gold",
+    "color4": "$foam",
+    "color5": "$iris",
+    "color6": "$rose",
+    "color7": "$text",
+    "color8": "$muted",
+    "color9": "$love",
+    "color10": "$pine",
+    "color11": "$gold",
+    "color12": "$foam",
+    "color13": "$iris",
+    "color14": "$rose",
+    "color15": "$text"
+  }
+}

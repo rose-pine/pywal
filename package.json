@@ -1,0 +1,18 @@
+{
+  "name": "@jrc03c/rose-pine-pywal",
+  "description": "Rosé Pine for pywal",
+  "version": "0.0.1",
+  "author": "jrc03c",
+  "keywords": [
+    "rose-pine",
+    "pywal",
+    "theme"
+  ],
+  "scripts": {
+    "build": "npx @rose-pine/build -t template.json -f hex -o dist",
+    "watch": "npx @rose-pine/build -t template.json -f hex -o dist -w"
+  },
+  "devDependencies": {
+    "@rose-pine/build": "^0.8.0"
+  }
+}
