@@ -29,9 +29,15 @@ wal --theme rose-pine-pywal/dist/rose-pine.json
 
 ## Gallery
 
+Rosé Pine:
+
 ![Rosé Pine with pywal](gallery/rose-pine.png)
 
+Rosé Pine Moon:
+
 ![Rosé Pine Moon with pywal](gallery/rose-pine-moon.png)
+
+Rosé Pine Dawn:
 
 ![Rosé Pine Dawn with pywal](gallery/rose-pine-dawn.png)
 
@@ -44,10 +50,6 @@ wal --theme rose-pine-pywal/dist/rose-pine.json
 > Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
 
 Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
 
 <!-- #rose-pine-build -->
 
