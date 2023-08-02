@@ -18,13 +18,13 @@
 2. Clone this repository.
 
 ```bash
-git clone https://github.com/jrc03c/rose-pine-pywal
+git clone https://github.com/jrc03c/pywal
 ```
 
 3. Apply one of the themes in the `/dist` folder.
 
 ```bash
-wal --theme rose-pine-pywal/dist/rose-pine.json
+wal --theme pywal/dist/rose-pine.json
 ```
 
 ## Gallery
