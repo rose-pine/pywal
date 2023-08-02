@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for pywal</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,17 +13,31 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Install [pywal](https://github.com/dylanaraps/pywal).
+
+2. Clone this repository.
+
+```bash
+git clone https://github.com/jrc03c/rose-pine-pywal
+```
+
+3. Apply one of the themes in the `/dist` folder.
+
+```bash
+wal --theme rose-pine-pywal/dist/rose-pine.json
+```
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Rosé Pine with pywal](gallery/rose-pine.png)
+
+![Rosé Pine Moon with pywal](gallery/rose-pine-moon.png)
+
+![Rosé Pine Dawn with pywal](gallery/rose-pine-dawn.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [jrc03c](https://github.com/jrc03c)
 
 ## Contributing
 
@@ -34,17 +48,6 @@ Modify `template.json` using Rosé Pine variables, then build variants:
 ```sh
 npx @rose-pine/build@latest
 ```
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Add a description and topics to automatically show the theme on [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
-    - Description should read "Soho vibes for App" where "App" is the display name
-    - Topics should include "theme" as well as any other categories. See [existing categories](https://rosepinetheme.com/themes), only adding new ones when necessary
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
 
 <!-- #rose-pine-build -->
 
