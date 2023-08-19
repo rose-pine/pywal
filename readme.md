@@ -31,15 +31,15 @@ wal --theme pywal/dist/rose-pine.json
 
 Rosé Pine:
 
-![Rosé Pine with pywal](gallery/rose-pine.png)
+![Rosé Pine with pywal](https://i.ibb.co/BLHPT0g/rose-pine.png)
 
 Rosé Pine Moon:
 
-![Rosé Pine Moon with pywal](gallery/rose-pine-moon.png)
+![Rosé Pine Moon with pywal](https://i.ibb.co/QFGqTfc/rose-pine-moon.png)
 
 Rosé Pine Dawn:
 
-![Rosé Pine Dawn with pywal](gallery/rose-pine-dawn.png)
+![Rosé Pine Dawn with pywal](https://i.ibb.co/yp56yvh/rose-pine-dawn.png)
 
 ## Thanks to
 
